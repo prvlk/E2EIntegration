@@ -7,6 +7,6 @@ public class TC_001 {
 	@Test
 	public void test()
 	{
-		System.out.println("Helo");
+		System.out.println("Hello1");
 	}
 }
